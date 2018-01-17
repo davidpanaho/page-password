@@ -1,0 +1,41 @@
+{
+    "name": "davidpanaho/page-password",
+    "description": "A simple plugin that allows you to password protect a page.",
+    "type": "craft-plugin",
+    "version": "0.1.0",
+    "keywords": [
+        "craft",
+        "cms",
+        "craftcms",
+        "craft-plugin",
+        "page password"
+    ],
+    "support": {
+        "docs": "https://github.com/davidpanaho/page-password/blob/master/README.md",
+        "issues": "https://github.com/davidpanaho/page-password/issues"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Panaho",
+            "homepage": "https://www.davidpanaho.com"
+        }
+    ],
+    "require": {
+        "craftcms/cms": "^3.0.0-RC1"
+    },
+    "autoload": {
+        "psr-4": {
+          "davidpanaho\\pagepassword\\": "src/"
+        }
+    },
+    "extra": {
+        "name": "Page Password",
+        "handle": "page-password",
+        "schemaVersion": "0.1.0",
+        "hasCpSettings": false,
+        "hasCpSection": false,
+        "changelogUrl": "https://raw.githubusercontent.com/davidpanaho/page-password/master/CHANGELOG.md",
+        "class": "davidpanaho\\pagepassword\\PagePassword"
+    }
+}
