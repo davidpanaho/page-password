@@ -1,8 +1,6 @@
 # Page Password plugin for Craft CMS 3.x
 
-A simple plugin that allows you to password protect a page.
-
-![Screenshot](resources/img/plugin-logo.png)
+A simple plugin that allows you to password protect a page. It's design is based on an answer I found on [StackExchange](https://craftcms.stackexchange.com/questions/8360/protect-a-page-with-a-single-password).
 
 ## Requirements
 
@@ -10,34 +8,20 @@ This plugin requires Craft CMS 3.0.0-beta.23 or later.
 
 ## Installation
 
-To install the plugin, follow these instructions.
+WIP
 
-1. Open your terminal and go to your Craft project:
+## Overview
 
-        cd /path/to/project
+WIP
 
-2. Then tell Composer to load the plugin:
+## Configuration
 
-        composer require davidpanaho/page-password
+WIP
 
-3. In the Control Panel, go to Settings → Plugins and click the “Install” button for Page Password.
+## Usage
 
-## Page Password Overview
+WIP
 
--Insert text here-
+## Roadmap
 
-## Configuring Page Password
-
--Insert text here-
-
-## Using Page Password
-
--Insert text here-
-
-## Page Password Roadmap
-
-Some things to do, and ideas for potential features:
-
-* Release it
-
-Brought to you by [David Panaho](https://www.davidpanaho.com)
+WIP
